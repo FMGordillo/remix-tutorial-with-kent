@@ -1,0 +1,11 @@
+:root {
+    background: black;
+    color: white;
+}
+
+:link {
+    color: rgb(64, 161, 191);
+}
+:link:hover {
+    color:rgb(85, 185, 216)
+}

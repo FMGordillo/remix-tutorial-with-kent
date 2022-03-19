@@ -1,8 +1,8 @@
 {
-  "name": "remix-template-remix-ts",
+  "name": "what-did-i-ate",
   "private": true,
-  "description": "",
-  "license": "",
+  "description": "See what did you ate",
+  "license": "ISC",
   "sideEffects": false,
   "scripts": {
     "build": "remix build",
